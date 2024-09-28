@@ -77,10 +77,10 @@ y_test = label_encoder.transform(test_solution_data['GENRE'])
 We performed basic data analysis to explore the distribution of movie genres and the length of movie descriptions. Below are some visualizations:
 
 1. **Distribution of Movies per Genre**:
-   ![Movies per Genre](assets/movies_per_genre.png)
+   ![Movies per Genre]
    
 2. **Description Length by Genre**:
-   ![Description Length by Genre](assets/description_length_genre.png)
+   ![Description Length by Genre]
 
 ## Modeling
 
